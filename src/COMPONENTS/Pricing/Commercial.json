@@ -1,0 +1,52 @@
+[
+  {
+    "Name": "Blanket",
+    "Price": "NPR 100-400",
+    "Image": "/Commercial/blankets.jpg"
+  },
+  {
+    "Name": "Bed Sheet",
+    "Price": "NPR 30",
+    "Image": "/Commercial/bed sheets.jpg"
+  },
+  {
+    "Name": "Duvet Cover",
+    "Price": "NPR 35",
+    "Image": "/Commercial/duvet cover.jpg"
+  },
+  {
+    "Name": "Hand Towel",
+    "Price": "NPR 10",
+    "Image": "/Commercial/towel.jpeg"
+  },
+  {
+    "Name": "Curtain",
+    "Price": "NPR 80",
+    "Image": "/Commercial/curtain.jpeg"
+  },
+  {
+    "Name": "Pillow Cover",
+    "Price": "NPR 10",
+    "Image": "/Commercial/pillow cover.jpeg"
+  },
+  {
+    "Name": "Towel",
+    "Price": "NPR 20",
+    "Image": "/Commercial/towel.jpg"
+  },
+  {
+    "Name": "Chair Cover",
+    "Price": "NPR 25",
+    "Image": "/Commercial/chair cover.jpeg"
+  },
+  {
+    "Name": "Table Top",
+    "Price": "NPR 20",
+    "Image": "/Commercial/table cover.jpg"
+  },
+  {
+    "Name": "Fiber Sirak",
+    "Price": "NPR 350",
+    "Image": "/Commercial/blankets.jpg"
+  }
+]

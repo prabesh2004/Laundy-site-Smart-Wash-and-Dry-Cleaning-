@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /private/
+Disallow: /tmp/
+
+
+Allow: /
+
+
+Sitemap: https://www.smartwashanddry.com/sitemap.xml

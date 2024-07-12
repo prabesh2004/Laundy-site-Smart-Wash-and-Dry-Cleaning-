@@ -1,0 +1,38 @@
+[
+    {
+      "Name": "Shirt",
+      "Price": "NPR 40",
+      "Image": "/Personal/shirts.jpg"
+    },
+    {
+      "Name": "T-Shirt",
+      "Price": "NPR 35",
+      "Image": "/Personal/t-shirt.jpeg"
+    },
+    {
+      "Name": "Pant",
+      "Price": "NPR 50",
+      "Image": "/Personal/pant.jpeg"
+    },
+    {
+      "Name": "Coat Pant",
+      "Price": "NPR 300",
+      "Image": "/Personal/coat.jpeg"
+    },
+    {   
+      "Name": "Uniform set",
+      "Price": "NPR 200",
+      "Image": "/Personal/uniform.jpg"
+    },
+    {   
+      "Name": "Short",
+      "Price": "NPR 35",
+      "Image": "/Personal/shorts.jpg"
+    }
+    ,  {   
+        "Name": "Sari set",
+        "Price": "NPR 200",
+        "Image": "/Personal/sari.jpg"
+      }
+  ]
+  
